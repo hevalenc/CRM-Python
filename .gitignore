@@ -5,3 +5,5 @@ __pycahe__/
 .env
 db.sqlite3
 .*_cache
+.vscode
+local_settings.py
